@@ -1,0 +1,14 @@
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\bin\Debug\net8.0\TCP-chat.exe
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\bin\Debug\net8.0\TCP-chat.deps.json
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\bin\Debug\net8.0\TCP-chat.runtimeconfig.json
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\bin\Debug\net8.0\TCP-chat.dll
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\bin\Debug\net8.0\TCP-chat.pdb
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.AssemblyInfoInputs.cache
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.AssemblyInfo.cs
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.csproj.CoreCompileInputs.cache
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.dll
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\refint\TCP-chat.dll
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.pdb
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\TCP-chat.genruntimeconfig.cache
+C:\Users\glebd\Projects\C#\TCP-chat\TCP-chat\obj\Debug\net8.0\ref\TCP-chat.dll
