@@ -1,0 +1,2 @@
+C:\Users\Gleb\source\C#\TCP-chat\TCP-chat\bin\Release\net8.0\win-x64\publish\TCP-chat.pdb
+C:\Users\Gleb\source\C#\TCP-chat\TCP-chat\bin\Release\net8.0\win-x64\publish\TCP-chat.exe

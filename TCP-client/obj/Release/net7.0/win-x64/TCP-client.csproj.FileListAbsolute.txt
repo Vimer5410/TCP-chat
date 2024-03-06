@@ -1,0 +1,15 @@
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\bin\Release\net7.0\win-x64\TCP-client.exe
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\bin\Release\net7.0\win-x64\TCP-client.deps.json
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\bin\Release\net7.0\win-x64\TCP-client.runtimeconfig.json
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\bin\Release\net7.0\win-x64\TCP-client.dll
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\bin\Release\net7.0\win-x64\TCP-client.pdb
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.AssemblyInfo.cs
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.dll
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\refint\TCP-client.dll
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.pdb
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\TCP-client.genruntimeconfig.cache
+C:\Users\Gleb\source\C#\TCP-chat\TCP-client\obj\Release\net7.0\win-x64\ref\TCP-client.dll

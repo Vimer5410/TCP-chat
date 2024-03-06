@@ -1,31 +1,34 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {},
+    "net8.0/win-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\glebd\\.nuget\\packages\\": {}
+    "C:\\Users\\Gleb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\glebd\\Projects\\C#\\TCP-chat\\TCP-chat\\TCP-chat.csproj",
+      "projectUniqueName": "C:\\Users\\Gleb\\source\\C#\\TCP-chat\\TCP-chat\\TCP-chat.csproj",
       "projectName": "TCP-chat",
-      "projectPath": "C:\\Users\\glebd\\Projects\\C#\\TCP-chat\\TCP-chat\\TCP-chat.csproj",
-      "packagesPath": "C:\\Users\\glebd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\glebd\\Projects\\C#\\TCP-chat\\TCP-chat\\obj\\",
+      "projectPath": "C:\\Users\\Gleb\\source\\C#\\TCP-chat\\TCP-chat\\TCP-chat.csproj",
+      "packagesPath": "C:\\Users\\Gleb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gleb\\source\\C#\\TCP-chat\\TCP-chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\glebd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Gleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,12 +57,35 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[8.0.0-preview.1.23112.2, 8.0.0-preview.1.23112.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[8.0.0-preview.1.23110.8, 8.0.0-preview.1.23110.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[8.0.0-preview.1.23110.8, 8.0.0-preview.1.23110.8]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[8.0.0-preview.1.23112.2, 8.0.0-preview.1.23112.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\glebd\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.1.23115.2\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

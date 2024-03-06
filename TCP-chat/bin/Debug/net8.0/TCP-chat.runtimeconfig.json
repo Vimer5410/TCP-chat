@@ -3,10 +3,7 @@
     "tfm": "net8.0",
     "framework": {
       "name": "Microsoft.NETCore.App",
-      "version": "8.0.0"
-    },
-    "configProperties": {
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+      "version": "8.0.0-preview.1.23110.8"
     }
   }
 }

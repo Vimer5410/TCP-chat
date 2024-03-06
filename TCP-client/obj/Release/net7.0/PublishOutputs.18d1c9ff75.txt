@@ -1,0 +1,5 @@
+D:\User profile\Desktop\MAINTEST\client\TCP-client.exe
+D:\User profile\Desktop\MAINTEST\client\TCP-client.dll
+D:\User profile\Desktop\MAINTEST\client\TCP-client.deps.json
+D:\User profile\Desktop\MAINTEST\client\TCP-client.runtimeconfig.json
+D:\User profile\Desktop\MAINTEST\client\TCP-client.pdb
