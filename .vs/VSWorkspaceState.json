@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TCP-chat"
+    "\\TCP-chat",
+    "\\TCP-client"
   ],
-  "SelectedNode": "\\TCP-chat.sln",
   "PreviewInSolutionExplorer": false
 }

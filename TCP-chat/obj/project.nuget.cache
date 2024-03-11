@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwTciqx36kfrQUgap+VmfsOlLiXd1pf9sb0J4YiLJ4AEbbhCTkYlUFc/31SbEIiOfsflfdunsQPBHhpSyl9SNg==",
+  "dgSpecHash": "4QeqqWRPzx7KwqF7jfegXNopqLfVyb8pOmuXPDMzn3caohB5Zg0BiTv2tySLbtwHByp2uEtIEcq11XCmXBq5sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gleb\\source\\C#\\TCP-chat\\TCP-chat\\TCP-chat.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0-preview.1.23110.8\\microsoft.netcore.app.runtime.win-x64.8.0.0-preview.1.23110.8.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.0-preview.1.23110.8\\microsoft.netcore.app.crossgen2.win-x64.8.0.0-preview.1.23110.8.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0-preview.1.23112.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0-preview.1.23112.2.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0-preview.1.23112.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0-preview.1.23112.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
