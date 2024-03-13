@@ -8,7 +8,8 @@ This is an example of how you may give instructions on setting up your project l
 2. Open the project in your IDE for C# development (for example, Visual Studio).
 3. Start the server by running Server.exe
 4. Launch the clients by running
-Client.exe 5. Enter the IP address and port of the server in the client application.
+Client.exe
+5. Enter the IP address and port of the server in the client application.
 6. Start communicating with other customers by sending messages via chat.
 
 ## Requirements
