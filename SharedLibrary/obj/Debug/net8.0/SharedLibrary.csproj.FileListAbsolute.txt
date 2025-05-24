@@ -1,0 +1,5 @@
+C:\Users\glebd\Projects\C#\TCP-chat\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebd\Projects\C#\TCP-chat\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\glebd\Projects\C#\TCP-chat\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\glebd\Projects\C#\TCP-chat\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\glebd\Projects\C#\TCP-chat\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json

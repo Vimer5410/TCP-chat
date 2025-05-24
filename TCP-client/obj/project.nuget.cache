@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aM2rfGxGihe8vFDFIbKCNgVuj3FopFHh9dbamg4O2zvyHUympqoRRZxIe62n3+eOtOUBsljA/w5BkUhE5gXLHQ==",
+  "dgSpecHash": "14rT/p9eujHWxbXMEQtPpQk2E1SYZ0t2BMgf1SFvBTGJc5xXKkToVOSiyff2gwP0nanF8K6I+G9wYoEnvrJZsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gleb\\source\\C#\\TCP-chat\\TCP-client\\TCP-client.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
-    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\glebd\\Projects\\C#\\TCP-chat\\TCP-client\\TCP-client.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
